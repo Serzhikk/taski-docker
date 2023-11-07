@@ -1,0 +1,9 @@
+venv
+.git
+db.sqlite3
+.idea
+.vscode
+.dockerignore.bak
+Dockerfile.bak
+.env
+setting.py.bak
